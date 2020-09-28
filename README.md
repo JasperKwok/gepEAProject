@@ -1,4 +1,6 @@
 # gepEAProject
 This is a version control project for GEP EA.
+
 This is my GEP. Starting with empty file...
+
 This is cringe...
